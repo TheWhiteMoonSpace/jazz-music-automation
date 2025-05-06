@@ -1,0 +1,19 @@
+# Python-related files
+*.pyc
+__pycache__/
+
+# Virtual environment
+venv/
+
+# Output files
+output/
+*.mp4
+*.mp3
+*.jpg
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Google API credentials
+client_secrets.json
